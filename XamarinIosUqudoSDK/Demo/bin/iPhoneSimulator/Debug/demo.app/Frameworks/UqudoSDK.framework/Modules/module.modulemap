@@ -1,6 +1,0 @@
-framework module UqudoSDK {
-  umbrella header "UqudoSDK.h"
-
-  export *
-  module * { export * }
-}

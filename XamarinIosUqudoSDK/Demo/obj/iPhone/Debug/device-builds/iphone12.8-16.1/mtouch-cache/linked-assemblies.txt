@@ -1,6 +1,0 @@
-RemoveDynamicRegistrar:true
-/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/bin/iPhone/Debug/device-builds/iphone12.8-16.1/demo.app:/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.1/mtouch-cache/1-Link/demo.exe
-/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/bin/iPhone/Debug/device-builds/iphone12.8-16.1/demo.app:/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.1/mtouch-cache/1-Link/mscorlib.dll
-/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/bin/iPhone/Debug/device-builds/iphone12.8-16.1/demo.app:/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.1/mtouch-cache/1-Link/Xamarin.iOS.dll
-/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/bin/iPhone/Debug/device-builds/iphone12.8-16.1/demo.app:/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.1/mtouch-cache/1-Link/System.dll
-/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/bin/iPhone/Debug/device-builds/iphone12.8-16.1/demo.app:/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.1/mtouch-cache/1-Link/UqudoSDK.dll
