@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)uqudosdk.openssl.binding/1.1.1700/build/Xamarin.iOS/UqudoSDK.OpenSSL.Binding.targets" Condition="Exists('$(NuGetPackageRoot)uqudosdk.openssl.binding/1.1.1700/build/Xamarin.iOS/UqudoSDK.OpenSSL.Binding.targets')" />
+    <Import Project="$(NuGetPackageRoot)uqudosdk.ios.binding/2.6.0/build/Xamarin.iOS/UqudoSDK.iOS.Binding.targets" Condition="Exists('$(NuGetPackageRoot)uqudosdk.ios.binding/2.6.0/build/Xamarin.iOS/UqudoSDK.iOS.Binding.targets')" />
+  </ImportGroup>
+</Project>

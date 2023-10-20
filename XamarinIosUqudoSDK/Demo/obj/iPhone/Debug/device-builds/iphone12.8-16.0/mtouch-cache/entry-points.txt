@@ -1,0 +1,35 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_release_managed_ref
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_log
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_UQAccountRecoveryBuilder
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQBuilderController
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQDocumentConfig
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQEnrollmentBuilder
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQFaceSessionBuilder
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQReadingConfig
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQScanConfig
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+ObjectiveCClass=OBJC_CLASS_$_UQSessionStatus
+	/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/iPhone/Debug/device-builds/iphone12.8-16.0/mtouch-cache/1-Link/UqudoSDK.dll
+Function=mono_pmip

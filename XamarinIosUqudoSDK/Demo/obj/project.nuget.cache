@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jb0n/8YlSkxjwww3E5zYrP/XMm8otpwr3pP+aZI+2Fk0dMifmO5tDY4ZdbQcP1pF7xfmwxB5d49yhf//xicoLA==",
+  "success": true,
+  "projectFilePath": "/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/DemoApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ayman/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ayman/.nuget/packages/uqudosdk.ios.binding/2.6.0/uqudosdk.ios.binding.2.6.0.nupkg.sha512",
+    "/Users/ayman/.nuget/packages/uqudosdk.openssl.binding/1.1.1700/uqudosdk.openssl.binding.1.1.1700.nupkg.sha512",
+    "/Users/ayman/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/DemoApp.csproj": {}
+  },
+  "projects": {
+    "/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/DemoApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/DemoApp.csproj",
+        "projectName": "demo",
+        "projectPath": "/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/DemoApp.csproj",
+        "packagesPath": "/Users/ayman/.nuget/packages/",
+        "outputPath": "/Users/ayman/Desktop/iOSXamarinDemoProject/Demo/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ayman/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rm.dev.uqudo.io/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "UqudoSDK.OpenSSL.Binding": {
+              "target": "Package",
+              "version": "[1.1.1700, )"
+            },
+            "UqudoSDK.iOS.Binding": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
