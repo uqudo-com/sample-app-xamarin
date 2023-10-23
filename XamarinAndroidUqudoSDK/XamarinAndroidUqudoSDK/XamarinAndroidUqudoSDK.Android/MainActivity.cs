@@ -21,32 +21,15 @@ namespace XamarinAndroidUqudoSDK.Droid
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
             
-
-
             var uqudoEnrollmentBuilder = new IO.Uqudo.Sdk.Core.UqudoBuilder.Enrollment();
-            //uqudoEnrollmentBuilder.EnableRootedDeviceUsage();
-            //uqudoEnrollmentBuilder.DisableSecureWindow();
             var documentBuilder = new IO.Uqudo.Sdk.Core.DocumentBuilder(this);
             documentBuilder.SetDocumentType(IO.Uqudo.Sdk.Core.Domain.Model.DocumentType.UaeId);
-            //documentBuilder.DisableHelpPage();
-            //documentBuilder.DisableExpiryValidation();
-
             var readingConfiguration = new IO.Uqudo.Sdk.Core.Builder.ReadingConfigurationBuilder();
-            //readingConfiguration.ForceReadingIfSupported(true);
-            //readingConfiguration.ForceReading(false);
-            //readingConfiguration.ForceReadingTimeout(15);
             documentBuilder.EnableReading(readingConfiguration.Build());
             var facialRecognitionConfigurationBuilder = new IO.Uqudo.Sdk.Core.Builder.FacialRecognitionConfigurationBuilder();
-            // facialRecognitionConfigurationBuilder.SetReadMinimumMatchLevel(3);
-            //facialRecognitionConfigurationBuilder.SetScanMinimumMatchLevel(3);
             uqudoEnrollmentBuilder.EnableFacialRecognition(facialRecognitionConfigurationBuilder.Build());
-            var backgroundCheck = new IO.Uqudo.Sdk.Core.Builder.BackgroundCheckConfigurationBuilder();
-            backgroundCheck.SetBackgroundCheckType(IO.Uqudo.Sdk.Core.Domain.Model.BackgroundCheckType.Rdc);
-            //backgroundCheck.EnableMonitoring();
-            uqudoEnrollmentBuilder.EnableBackgroundCheck(backgroundCheck.Build());
             uqudoEnrollmentBuilder.SetToken("<Token>");
             uqudoEnrollmentBuilder.Add(documentBuilder.Build());
-            //uqudoEnrollmentBuilder.ReturnDataForIncompleteSession();
             StartActivityForResult(uqudoEnrollmentBuilder.Build(this), 100);
 
         }
