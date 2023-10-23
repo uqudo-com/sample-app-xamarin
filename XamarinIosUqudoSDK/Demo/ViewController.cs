@@ -17,7 +17,7 @@ namespace demo
             
         
 
-var builderController = UQBuilderController.DefaultBuilder();
+            var builderController = UQBuilderController.DefaultBuilder();
             builderController.AppViewController = this;
             builderController.Delegate = new UqudoBuilderControllerDelegate();
             var enrollmentBuilder = new UQEnrollmentBuilder();
